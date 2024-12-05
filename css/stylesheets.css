@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.inputwrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+#vat-table {
+    border-collapse: collapse;
+}
